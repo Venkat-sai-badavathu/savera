@@ -9,7 +9,7 @@
 <div align="center">
   <img src="savera/assets/app_screenshot.jpg" width="200" alt="SOS Screen">
   <img src="savera/assets/location.jpg" width="200" alt="Tracking Screen"> 
-  <img src="savera/assets/chatbotj.pg" width="200" alt="AI Assistant">
+  <img src="savera/assets/chatbot.jpg" width="200" alt="AI Assistant">
 </div>
 
 ## ✨ Key Features
