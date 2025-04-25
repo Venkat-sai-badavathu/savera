@@ -1,16 +1,39 @@
-# savera
+# 🛡️ Savera - Women's Safety Companion
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-EMBLEM-orange?logo=firebase)](https://firebase.google.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Getting Started
+**Savera** is an AI-integrated emergency response app featuring real-time location sharing, instant SOS alerts, and digital evidence preservation - built with Flutter for cross-platform reliability.
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="assets/app_screenshot.jpg" width="200" alt="SOS Screen">
+  <img src="assets/location.jpg" width="200" alt="Tracking Screen"> 
+  <img src="assets/chatbot.jpg" width="200" alt="AI Assistant">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **3-Tap Emergency SOS** with automatic SMS/email alerts
+- **Live Location Tracking** with safe route mapping
+- **Discreet Evidence Capture** (photos + metadata)
+- **AI Safety Assistant** (24/7 threat assessment)
+- **Encrypted Cloud Backup** of critical incidents
+- **Customizable Safety Plans** for different scenarios
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| Frontend  | Flutter 3.19 (Dart 3.3) |
+| Backend   | Firebase (Auth, Firestore, Storage) |
+| Maps      | Google Maps Platform |
+| AI        | Dialogflow CX + Custom TensorFlow Lite models |
+| DevOps    | GitHub Actions, Fastlane |
+
+## 📦 Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/savera-womens-safety.git
+   cd savera-womens-safety
