@@ -7,9 +7,9 @@
 **Savera** is an AI-integrated emergency response app featuring real-time location sharing, instant SOS alerts, and digital evidence preservation - built with Flutter for cross-platform reliability.
 
 <div align="center">
-  <img src="assets/app_screenshot.jpg" width="200" alt="SOS Screen">
-  <img src="assets/location_tracking.png" width="200" alt="Tracking Screen"> 
-  <img src="assets/ai_chat.png" width="200" alt="AI Assistant">
+  <img src="savera/assets/app_screenshot.jpg" width="200" alt="SOS Screen">
+  <img src="savera/assets/location.jpg" width="200" alt="Tracking Screen"> 
+  <img src="savera/assets/chatbotjpg" width="200" alt="AI Assistant">
 </div>
 
 ## ✨ Key Features
