@@ -35,5 +35,5 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/savera-womens-safety.git
-   cd savera-womens-safety
+   git clone https://github.com/Venkat-sai-badavathu/savera.git
+   cd savera
